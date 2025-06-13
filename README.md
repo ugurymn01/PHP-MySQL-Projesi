@@ -11,6 +11,22 @@
 
 Bu proje, bir araç kiralama firmasının basit düzeyde müşteri ve araç yönetimini yapabilmesi için yapılmıştır. Kullanıcılar sisteme kayıt olabilir, giriş yapabilir ve sisteme araç ekleyebilir, düzenleyebilir ya da silebilir. Aynı zamanda kullanıcı oturumu açıldığında sistemde kayıtlı araçları görüntüleyebilir. Proje, sade bir kullanıcı arayüzü ile temel işlemlerini yerine getirecek şekilde tasarlanmıştır.
 
+## Proje yapısı
+
+oto_sistem/
+├── arac_ekle.php
+├── arac_duzenle.php
+├── arac_sil.php
+├── arac_listele.php
+├── kayit.php
+├── giris.php
+├── cikis.php
+├── panel.php
+├── veritabani.php
+└── index.php
+
+Yapıda başlıklardan her şey belli olmakta fakat farklı olarak index.php bulunmakta. Bu kısım ile linkimiz direk giriş ekranına yönlendirmektedir.
+
 ## Giriş ekranı
 
 ![giriş](https://github.com/user-attachments/assets/1e7d580f-b0ca-441a-bf0e-9fc470b2d129)
