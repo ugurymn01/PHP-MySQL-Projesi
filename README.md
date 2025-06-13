@@ -13,17 +13,17 @@ Bu proje, bir araç kiralama firmasının basit düzeyde müşteri ve araç yön
 
 ## Proje yapısı
 
-oto_sistem/
-├── arac_ekle.php
-├── arac_duzenle.php
-├── arac_sil.php
-├── arac_listele.php
-├── kayit.php
-├── giris.php
-├── cikis.php
-├── panel.php
-├── veritabani.php
-└── index.php
+- oto_sistem/
+- arac_ekle.php
+- arac_duzenle.php
+- arac_sil.php
+- arac_listele.php
+- kayit.php
+- giris.php
+- cikis.php
+- panel.php
+- veritabani.php
+- index.php
 
 Yapıda başlıklardan her şey belli olmakta fakat farklı olarak index.php bulunmakta. Bu kısım ile linkimiz direk giriş ekranına yönlendirmektedir.
 
