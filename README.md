@@ -57,8 +57,9 @@ Yapıda başlıklardan her şey belli olmakta fakat farklı olarak index.php bul
 
 - Bu kısımda şu ana kadar eklenen araçların bilgisi veritabanından çağırılarak ekranda kullanıcıya verilmektedir. Yan çubukta ise seçili olan aracı silme ve düzenleme işlemleri için seçenek bulunmaktadır. Düzenle seçeneği seçildiği zaman ekleme ekranı gelmekte ve bilgiler değiştirilebilmektedir.
 
-
-
+## Site Linki Ve Video linki 
+-https://youtu.be/cTmZWhQHE_Y?si=J-QRbCG-lNzIJmfI
+-http://95.130.171.20/~st22360859023
 
 
 
